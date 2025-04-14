@@ -55,15 +55,17 @@ GB/GPM keep track of uncommitted changes in a layer on top of Git. Changes to fi
 
 ### How Do These Virtual Branches in GB or GPM Differ From Git Branches?
 
-The branches that we know and love in Git are separate universes, and switching between them is a full context switch. GB/GPM allows you to work with multiple branches in parallel in the same working directory. This effectively means having the content of multiple branches available at the same time.
+The branches that we know and love in Git are separate universes, and switching between them is a **FULL context switch.** 
 
-GitButler is aware of changes before they are committed. This allows it to keep a record of which virtual branch each individual diff belongs to. Effectively, this means that you can separate out individual branches with their content at any time to push them to a remote or to unapply them from your working directory.
+GB/GPM allows you to work with multiple branches in parallel in the same working directory. This effectively, *from what your mind sees in looking at the GitButler interface* means that it's as if you have the content of multiple VIRTUAL branches available for you to work with at the same time.
+
+GitButler is aware of changes before they are committed. This allows it to keep a record of which virtual branch each individual diff belongs to. Effectively, this means that you can separate out individual VIRTUAL branches with their content at any time to push them to a remote or to unapply them from your working directory.
 
 And finally, while in Git it is preferable that you create your desired branch ahead of time, using GitButler you can move changes between virtual branches at any point during development.
 
 ### Why GitButler? Why GitProjMgr
 
-Managing source code and workflows are completely different, smarter, smoother and have leapfrogged ahead of the way things were done 25 years ago. It's a whole different work/social paradigm than than 50 year old Space Age concepts that were taught to managers in Engineering colleges and MBA programs and are still very much exactly the old single-guy-at-his-desktop appraoch driving the way a lot of work is still managed and done today.
+Managing multiple ideas, source code and workflows or different AI response, are completely different, smarter, smoother and have leapfrogged ahead of the way things were done 25 years ago, ie it wasn't that long ago that AI-assisted coding that went beyond autocomplete or vibe coding was a big deal. It's a whole different work/social paradigm than than 50 year old NASA-modern, SpaceAgey concepts that were taught to managers in Engineering colleges and MBA programs and are still very much exactly the old single-guy-at-his-desktop appraoch driving the way a lot of work is still managed and done today.
 
 GitButler is rethinking everything between when you write code in your editor of choice and when you push that code to GitHub for review. Why are you making 'wip' commits when your source code manager should be just recording everything for you? Why are everyone's commit messages pretty much useless? Why should something like git blame be the best way to get context on the code your team has written? Why can't you seamlessly transition work between computers? Why does "asynchronous collaboration" sound like an oxymoron to many people. 
 
