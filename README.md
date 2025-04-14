@@ -127,13 +127,15 @@ at the [DEVELOPMENT.md](DEVELOPMENT.md) file.
 
 ## Example Git Project Management Roadmap
 
-### Start With A 100-Point Plan for Launching Something, Such As a Nursery Business
+### Start With A 100-Point Plan for Launching A Venture
 
-No plan survives confrontation with Reality, but **the importance of the planning process is to THOROUGHLY visualize success and work backward from what has to happen to ensure success.**
+For discussion purposes, we will consider something like nursery business. Plans are cheap, plans are easy, plans don't matter EXCEPT that the process of planning, iteratively and working the plan is what it's about.  Obviously, no plan ever survives confrontation with Reality, but that is the point. It's not the plan, it's the **importance of the PLANNING process is to THOROUGHLY visualize success and everything that is going to have to happen; that why we start at the end and work backward from what has to happen to ensure success.**
 
-*Project planning is about PROGRAMMING your business to be successful*. Your plan will change as you launch, and the point of making project planning easier with an automated project mgmt tools is it will be necessary to always be re-factoring the plan [in the background] and as most of the hard effort is spent on the actual work necessary to continue to guide the venture to success.  
+*Project PLANNING is about PROGRAMMING your mind to be successful* ... before you commit capital or resources or your time, you have to run the program in your mind. 
 
-#### Phase 1: Research & Planning (Points 1-20)
+Obviously, your plan will change as you launch and get into it ... so the whole point of making project planning easier with an automated project mgmt tools is it will be necessary to always be re-factoring the plan, with minor adjustments ... because, once capital is committed, most of the hard effort, sweat and frustration will have to be spent on the actual work necessary to guide the venture to success ... you do not want to start the planning process AFTER you've thrown way too much money at something that didn't have a plan.  
+
+#### Phase 1: Research & Planning (1/5 of )
 
 ##### Market Research
 1. Conduct local market research to identify demand for plants in your area
@@ -163,7 +165,7 @@ No plan survives confrontation with Reality, but **the importance of the plannin
 19. Plan your inventory mix by season
 20. Create a sourcing strategy for initial stock
 
-#### Phase 2: Setup & Infrastructure (Points 21-40)
+#### Phase 2: Setup & Infrastructure (1/5th )
 
 ##### Physical Infrastructure
 21. Develop site plan and obtain necessary permits
@@ -245,7 +247,7 @@ No plan survives confrontation with Reality, but **the importance of the plannin
 79. Design plant combination suggestions for shoppers
 80. Develop online ordering and pickup/delivery options
 
-#### Phase 5: Growth & Sustainability (Points 81-100)
+#### [Phase 5: Growth & Sustainability](https://docs.google.com/document/d/1XtyHvfCBV1Z2qddu4lJOdC6o7Zcv-xhkQpS2QlbWxBc/edit?usp=sharing) 
 
 ##### Business Growth
 81. Establish metrics to track business performance
