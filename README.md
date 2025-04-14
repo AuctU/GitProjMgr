@@ -129,13 +129,13 @@ at the [DEVELOPMENT.md](DEVELOPMENT.md) file.
 
 ### Start With A 100-Point Plan for Launching A Venture
 
-For discussion purposes, we will consider something like nursery business. Plans are cheap, plans are easy, plans don't matter EXCEPT that the process of planning, iteratively and working the plan is what it's about.  Obviously, no plan ever survives confrontation with Reality, but that is the point. It's not the plan, it's the **importance of the PLANNING process is to THOROUGHLY visualize success and everything that is going to have to happen; that why we start at the end and work backward from what has to happen to ensure success.**
+For discussion purposes, we will consider something like nursery business. Plans are cheap, plans are easy, plans don't matter EXCEPT that the process of planning, iteratively and working the plan is what it's about.  Obviously, no plan ever survives confrontation with Reality, but that is the point. It's not the plan, it's the **importance of the PLANNING process is to THOROUGHLY visualize success and everything that is going to have to happen; that why we plan forward and backward, but when we decide to get serious, we start at the end and work backward from what has to happen to ensure success.**
 
-*Project PLANNING is about PROGRAMMING your mind to be successful* ... before you commit capital or resources or your time, you have to run the program in your mind. 
+*Project PLANNING is about PROGRAMMING your mind to be successful* ... before you commit capital or resources or your time, you have to run the program in your mind ... most ventures will not work, plans will never go anywhere -- but we are better for the process of having investigated in new plan AS LONG AS WE HAVE NOT COMMITTED THE CAPITAL, RESOURCES, TIME and ENERGY to the idea.
 
-Obviously, your plan will change as you launch and get into it ... so the whole point of making project planning easier with an automated project mgmt tools is it will be necessary to always be re-factoring the plan, with minor adjustments ... because, once capital is committed, most of the hard effort, sweat and frustration will have to be spent on the actual work necessary to guide the venture to success ... you do not want to start the planning process AFTER you've thrown way too much money at something that didn't have a plan.  
+Obviously, your plans, that you do decide to actually go forward with will change as you launch and get into it ... so the whole point of making project planning easier with an automated project mgmt tools is it will be necessary to always be re-factoring the plan, with minor adjustments ... because, once capital is committed, most of the hard effort, sweat and frustration will have to be spent on the actual work necessary to guide the venture to success ... you do not want to start the planning process AFTER you've thrown way too much money at something that didn't have a plan.  
 
-#### Phase 1: Research & Planning (1/5 of )
+#### Phase 1: [Research & Planning](https://docs.google.com/document/d/1fF9RR1BlY3QMfvxpc1vhcfP8yrUVoy_P5XEsoYFnTZU/edit?usp=sharing)
 
 ##### Market Research
 1. Conduct local market research to identify demand for plants in your area
@@ -165,7 +165,7 @@ Obviously, your plan will change as you launch and get into it ... so the whole 
 19. Plan your inventory mix by season
 20. Create a sourcing strategy for initial stock
 
-#### Phase 2: Setup & Infrastructure (1/5th )
+#### Phase 2: Setup & Infrastructure 
 
 ##### Physical Infrastructure
 21. Develop site plan and obtain necessary permits
@@ -191,7 +191,7 @@ Obviously, your plan will change as you launch and get into it ... so the whole 
 39. Acquire plant protection supplies (frost cloth, etc.)
 40. Set up office equipment and supplies
 
-#### Phase 3: Operations & Systems (Points 41-60)
+#### Phase 3: [Operations & Systems](https://docs.google.com/document/d/1zwxpLprds4NznpOnJF2ku6GE1ggPvpSp47mYXBLoYmo/edit?usp=sharing)
 
 ##### Production Planning
 41. Create detailed growing schedules by season
@@ -219,7 +219,7 @@ Obviously, your plan will change as you launch and get into it ... so the whole 
 59. Set up tax collection systems
 60. Create safety protocols and employee training
 
-#### Phase 4: Marketing & Customer Acquisition (Points 61-80)
+#### Phase 4: [Marketing & Customer Acquisition](https://docs.google.com/document/d/1hDgQJxklhzQqpygYXvjVCScDun3ydm-Y6n6PRPQij9A/edit?usp=sharing)
 
 ##### Brand Development
 61. Design professional logo and brand identity
