@@ -1,6 +1,6 @@
 <div align="center">
    <img align="center" width="128px" src="crates/gitbutler-tauri/icons/128x128@2x.png" />
-	<h1 align="center"><b>GitButler</b></h1>
+	<h1 align="center"><b>GitProjMgr</b></h1>
 	<p align="center">
 		Git Project Management tool, for collaborative development of projects using AI-assisted social branch-coding workflows
     <br />
@@ -41,17 +41,19 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/fb23382bcf57c609832661874d3019a43555d6ae.svg 'Repobeats analytics for GitButler')
 
-GitProjMgr is very much like GitButler, which is a git client that lets you work on multiple branches at the same time.
-GitButler allows you to quickly organize file changes into separate branches while still having them applied to your working directory.
-You can then push branches individually to your remote, or directly create pull requests.
+GitProjMgr is only a fork, right now exactly very much like GitButler, which is a git client that lets you work on multiple branches at the same time.
 
-In a nutshell, it's a more flexible version of `git add -p` and `git rebase -i`, allowing you to efficiently multitask across branches.
+GitButler allows you to quickly organize file changes into separate branches while still having them applied to your working directory. You can then push branches individually to your remote, or directly create pull requests. 
 
-## How Does GitButleer (GB) / GitProjMgr (GPM) Work?
+In a nutshell, GitButler is a more flexible version of `git add -p` and `git rebase -i`, allowing your computer to efficiently multitask across branches. Having the **software multi-task** across branches, while the **devs are single-minded focused on the the differences**, instead of forcing the dev to multi-task in different windows or different machines is a HUGE DEAL! 
+
+*The benefit is all in your MIND...*
+
+### How Does GitButleer (GB) / GitProjMgr (GPM) Work?
 
 GB/GPM keep track of uncommitted changes in a layer on top of Git. Changes to files or parts of files can be grouped into what we call virtual branches. Whenever you are happy with the contents of a virtual branch, you can push it to a remote. GB/GPM makes sure that the state of other virtual branches is kept separate.
 
-## How Do These Virtual Branches in GB or GPM Differ From Git Branches?
+### How Do These Virtual Branches in GB or GPM Differ From Git Branches?
 
 The branches that we know and love in Git are separate universes, and switching between them is a full context switch. GB/GPM allows you to work with multiple branches in parallel in the same working directory. This effectively means having the content of multiple branches available at the same time.
 
@@ -59,17 +61,26 @@ GitButler is aware of changes before they are committed. This allows it to keep 
 
 And finally, while in Git it is preferable that you create your desired branch ahead of time, using GitButler you can move changes between virtual branches at any point during development.
 
-## Why GitButler? Why GitProjMgr
+### Why GitButler? Why GitProjMgr
 
-We love Git and the work of [Scott Chacon](https://github.com/schacon), and not just [@schacon](https://github.com/schacon)'s [Pro Git](https://git-scm.com/book/en/v2) book, but Scott's work with languages and immersive training to speak/think as a native. We recognize that Git's porcelain user interface hasn't been fundamentally changed for 15 years, but we still believe that the data model architecture is basically sound and *certainly not going away any time soon*. While Git was originally written for Linux kernel devs sending patches to each other over mailing lists, most developers today have different workflows and needs and most people engaged in other creative pursuits and project management chores certainly have *extremely* different and diverse workflows *ON THE SURFACE*. But underneath, it still goes back the data model.
+Managing source code and workflows are completely different, smarter, smoother and have leapfrogged ahead of the way things were done 25 years ago. It's a whole different work/social paradigm than than 50 year old Space Age concepts that were taught to managers in Engineering colleges and MBA programs and are still very much exactly the old single-guy-at-his-desktop appraoch driving the way a lot of work is still managed and done today.
 
-Instead of trying to fit the semantics of the Git command line interface into a graphical interface, the devs behind GitButler started with the branched developer workflow and mapped it back to Git. Our approach with GitProjMgr is to take this one step further and to make project management workflows AI-assisted, in order to be primarily code-free and to instead allow for social branch coding to be done primarily with natural language prompts.
+GitButler is rethinking everything between when you write code in your editor of choice and when you push that code to GitHub for review. Why are you making 'wip' commits when your source code manager should be just recording everything for you? Why are everyone's commit messages pretty much useless? Why should something like git blame be the best way to get context on the code your team has written? Why can't you seamlessly transition work between computers? Why does "asynchronous collaboration" sound like an oxymoron to many people. 
 
-## Tech
+The devs at GitButler recognized that Git's porcelain user interface hasn't been fundamentally changed for 15 years, but we still believe that the data model architecture is basically sound and *certainly not going away any time soon*. While Git was originally written for Linux kernel devs sending patches to each other over mailing lists, most developers today have different workflows and needs and most people engaged in other creative pursuits and project management chores certainly have *extremely* different and diverse workflows *ON THE SURFACE*. But underneath, it still goes back to the Git DVCS data model.
 
-GitButler / GitProjMgr are very similar applications, at least on the surface and for the most part, under the hood, too. GitProjMgr will make choices for even lower latency and to facilitate the incorporation of AI-assisted natural language features for social branch coding and development/publishing of visual knowledgegraphs of conceptual ideas in a data visualization approach inspired by [arXiv labs](https://info.arxiv.org/labs/showcase.html), [SemanticScholar](https://www.semanticscholar.org/paper/Construction-of-the-Literature-Graph-in-Semantic-Ammar-Groeneveld/649def34f8be52c8b66281af98ae884c09aef38b) and [ConnectedPapers](https://www.connectedpapers.com/about). 
+Instead of trying to fit the semantics of the Git command line interface into a graphical interface, the devs behind GitButler started with a more social, interactive, branched-coding developer workflow and mapped it back to the Git DVCS data model. 
+
+The devs at GitButler created not only a new kind of Git client, but an entirely new way of thinking about managing the code that devs work on. A tool that helps you at every step of the software development process. A code concierge, hard at work for you to ensure that you'll never lose a moment of work again. That you'll have all the context and support you'll need around every line of code you work on.
+
+### If the technology is so similar, why GitProjMgr
+
+Our approach with GitProjMgr is really just to FORK GitButler ... and make a stab at taking this one step teesy further and to make project management workflows AI-assisted, in order to be primarily code-free and to instead allow for social branch coding to be done primarily with natural language prompts. GitButler / GitProjMgr are VERY similar applications, at least on the surface and for the most part, under the hood, too. So far, GitProjMgr is just a riff, just a fork.
+
+We expect that GitProjMgr will have to make choices for even lower latency. The reason for that is to facilitate the incorporation of AI-assisted natural language features for social branch coding and development/publishing of visual knowledgegraphs of conceptual ideas in a data visualization approach inspired by [arXiv labs](https://info.arxiv.org/labs/showcase.html), [SemanticScholar](https://www.semanticscholar.org/paper/Construction-of-the-Literature-Graph-in-Semantic-Ammar-Groeneveld/649def34f8be52c8b66281af98ae884c09aef38b) and [ConnectedPapers](https://www.connectedpapers.com/about). 
 
 ### Key Technologies for GitProjMgr
+
 - **[Frontend](https://www.curated.design/articles/gitbutler)**: [Svelte](https://svelte.dev/), [TypeScript](https://www.typescriptlang.org), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 - **Backend**: [Rust](https://www.rust-lang.org/), [Tauri](https://tauri.app/)
 - **Data Storage**: Git-based distributed repositories
