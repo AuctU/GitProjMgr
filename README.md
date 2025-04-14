@@ -41,7 +41,7 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/fb23382bcf57c609832661874d3019a43555d6ae.svg 'Repobeats analytics for GitButler')
 
-GitProjMgr is only a fork, right now exactly very much like GitButler, which is a git client that lets you work on multiple branches at the same time.
+*For now, GitProjMgr is only a fork, right now exactly very much like GitButler, which is a git client that lets you work on multiple branches at the same time.*
 
 GitButler allows you to quickly organize file changes into separate branches while still having them applied to your working directory. You can then push branches individually to your remote, or directly create pull requests. 
 
