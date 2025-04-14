@@ -129,13 +129,9 @@ at the [DEVELOPMENT.md](DEVELOPMENT.md) file.
 
 ### Start With A 100-Point Plan for Launching Something, Such As a Nursery Business
 
-Any business plan illustrate, why the entreprenur must START by looking at the end and reading backwards, gradually adding more and more depth ... then refine. revise, refactor, rethink, redo the plan AND POSSIBLY START COMPLETELY OVER ... the planning process ensure that capital is not squandered by just jumping in and doing something for the sake of getting something going. 
-
-It's is true that no plan survives confrontation with Reality, but **the importance of the planning process is to THOROUGHLY visualize success and work backward from what has to happen to ensure success.**
+No plan survives confrontation with Reality, but **the importance of the planning process is to THOROUGHLY visualize success and work backward from what has to happen to ensure success.**
 
 *Project planning is about PROGRAMMING your business to be successful*. Your plan will change as you launch, and the point of making project planning easier with an automated project mgmt tools is it will be necessary to always be re-factoring the plan [in the background] and as most of the hard effort is spent on the actual work necessary to continue to guide the venture to success.  
-
-GitProjMgr is ONLY a tool -- the project management actually consists of doing the work. ***It's like a fitness app*** ... the fitness app does not do the important repititions for the person; the point of a fitness app is to spend less time searching for data such as finding new WODs and free the mind from tracking metrics ... in order to focus on doing quality repititions. 
 
 #### Phase 1: Research & Planning (Points 1-20)
 
@@ -274,3 +270,8 @@ GitProjMgr is ONLY a tool -- the project management actually consists of doing t
 98. Develop succession planning for business continuity
 99. Build community partnerships and involvement
 100. Create a long-term vision for business evolution and growth
+
+As any comprehensive business plan illustrates, **the entreprenur must START by looking at the end and reading backwards adjusting and re-adjusting, gradually adding more and more depth ... then refining. revising, refactoring, rethinking, redoing the plan AND POSSIBLY START COMPLETELY OVER ... the planning process ensures that capital is not squandered by just jumping in and doing something for the sake of getting something going. 
+
+In the final analysis, GitProjMgr is ONLY a tool -- the project management actually consists of doing the work. ***It's like a fitness app*** ... the fitness app does not do the important repititions for the person; the point of a fitness app is to spend less time searching for data such as finding new WODs and free the mind from tracking metrics ... in order to focus on doing quality repititions. 
+
