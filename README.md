@@ -125,15 +125,28 @@ at the [DEVELOPMENT.md](DEVELOPMENT.md) file.
 - **Commit Signing**
   - Easy commit signing with GPG or SSH
 
-## Example Git Project Management Roadmap
+## Git Project Management Philosophy
 
-### Start With A 100-Point Plan for Launching A Venture
+While plans themselves are inexpensive to create and easily modified, their true value lies in the **iterative planning process**. No plan remains intact once implementation begins, but the planning exercise serves several critical functions in preventing the unnecessary wastage of capital, resouces, time, enthusiasm and good will. Exhaustive planning and preparation enables entrepreneurs to thoroughly visualize success and identify all necessary steps for achievement.
 
-For discussion purposes, we will consider something like nursery business. Plans are cheap, plans are easy, plans don't matter EXCEPT that the process of planning, iteratively and working the plan is what it's about.  Obviously, no plan ever survives confrontation with Reality, but that is the point. It's not the plan, it's the **importance of the PLANNING process is to THOROUGHLY visualize success and everything that is going to have to happen; that why we plan forward and backward, but when we decide to get serious, we start at the end and work backward from what has to happen to ensure success.**
+We begin with boilerplate frameworks that have worked. Then we develop artifacts for each of the five to seven major phases we identify for a venture launch. Those artifacts the phases of the project are ONLY a beginning -- we then begin to develop the artifacts for each of 100 points we identify as important for the new venture; as planning process proceeds, those 100 important points may changes as we see gaps or opportunities for consolidation. We bring in stakeholders, contractors, partners, investors, collaborators and we go over our plans with them ... then we revise and improve, revise and improve, revise and improve the plan ... we can plan a lot in a weekend, we can plan more in a week and almost too much in a month. But we intend to plan more in a month than many do in decades.
 
-*Project PLANNING is about PROGRAMMING your mind to be successful* ... before you commit capital or resources or your time, you have to run the program in your mind ... most ventures will not work, plans will never go anywhere -- but we are better for the process of having investigated in new plan AS LONG AS WE HAVE NOT COMMITTED THE CAPITAL, RESOURCES, TIME and ENERGY to the idea.
+We are are ready to COMMIT, we launch MINIMAL viable protoypes and get customer reaction ... then we plan more and find ways to give the customers something better than what they want ... then we continue to launch, re-launch continually -- since our process involves designing in observability, we launch earlier and use our testing in production to refine our plan over and over and over.
 
-Obviously, your plans, that you do decide to actually go forward with will change as you launch and get into it ... so the whole point of making project planning easier with an automated project mgmt tools is it will be necessary to always be re-factoring the plan, with minor adjustments ... because, once capital is committed, most of the hard effort, sweat and frustration will have to be spent on the actual work necessary to guide the venture to success ... you do not want to start the planning process AFTER you've thrown way too much money at something that didn't have a plan.  
+This kind of intensity or speed involves less work/frustration than just cranking out things the way it used to be done. 1) People do not this kind of thing, unless they need to work like this. In fact, if you don't love doing this FOR FUN, you belong working for somebody else and getting a W-2 or 1099 as a contractor, 2) Work is what we did when were kids; now that we're old geezers, we *cheat* and we ***automate*** our cheating skill game; we don't use use AI, we make a game of becoming more savvy about AI in order to exlore every available intelligence gathering trick in the book.   
+
+## Forward and Backward Planning Methodology
+
+The most effective approach involves planning from both directions—forward from current position and backward from desired outcomes. At first, before committing to implementation, we begin with the end state and systematically work backward, identifying critical milestones required for success. In the end, it is the iterative polishing and planning, working the plan, sweating the details and assiduously revising and continually improving the plan that drives better execution. Nobody is going to care more than the project manager ... success does not just happen. It is programmed.
+
+## Mental Preparation and Programming for Success
+Strategic planning functions as intense mental programming for success. Before allocating capital, resources, or time, entrepreneurs must mentally simulate the entire business process. The enterpreneur must be able to see, hear, smell, taste and touch every step in the process long before it comes into fruition, even before and capital, resources, time, energy or effort is expended. While many venture concepts will not advance beyond the planning stage, the investigation process remains valuable—provided it occurs before significant resources are committed, nothing has been lost ... the time, effort, energy spent analyzing a plan will pay dividends in terms of tighter discipline and better execution down the line.
+
+## Adaptation and Flexibility As a Matter of Discipline
+Plans MUST inevitably evolve during implementation. The purpose of utilizing automated project management tools is to facilitate rapid, immediate, continuous refinement with minimal disruption. Once capital is deployed, most effort must focus on execution rather than planning. Starting a venture without adequate planning gaurantees resource misallocation and failure. Starting to manage project without adequate project management discipline and planning tools significantly increases the risk of unsuccessful, painful projects that even seasoned *project fixer magicians* will struggle to turn around. 
+
+# Example Of Project Planning: Venture Nursery Business Venture
+
 
 #### Phase 1: [Research & Planning](https://docs.google.com/document/d/1fF9RR1BlY3QMfvxpc1vhcfP8yrUVoy_P5XEsoYFnTZU/edit?usp=sharing)
 
