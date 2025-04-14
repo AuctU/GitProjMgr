@@ -146,7 +146,7 @@ GitProjMgr is ONLY a tool -- the project management actually consists of doing t
 4. Analyze seasonal buying patterns in your region
 5. Determine which plant types have the highest margins and demand
 
-###EE Business Foundation
+##### Business Foundation
 6. Define your nursery's unique selling proposition (specialization in natives, rare plants, etc.)
 7. Create a detailed business plan with 3-5 year projections
 8. Determine your initial startup budget and funding sources
