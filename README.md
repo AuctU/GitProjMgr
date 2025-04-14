@@ -76,7 +76,7 @@ GitButler / GitProjMgr are very similar applications, at least on the surface an
 - **Synchronization**: Custom Git protocols, WebRTC
 - **Cloud Infrastructure**: GCP/Azure/AWS for central repository
 - **AI Integration**: LLM APIs for intelligent assistance
-- **Authentication**: OAuth, JWT
+- **Authentication**: [OAuth, JWT](https://frontegg.com/blog/oauth-vs-jwt)
 - **DevOps**: GitHub Actions, Docker, k8s
 
 ## Documentation
@@ -165,7 +165,7 @@ Obviously, your plans, that you do decide to actually go forward with will chang
 19. Plan your inventory mix by season
 20. Create a sourcing strategy for initial stock
 
-#### Phase 2: Setup & Infrastructure 
+#### Phase 2: [Setup & Infrastructure](https://docs.google.com/document/d/14K6sd63YSK2Mvc_6bejtwFe5wHj0NZZMT2qhMfpphS8/edit?usp=sharing) 
 
 ##### Physical Infrastructure
 21. Develop site plan and obtain necessary permits
